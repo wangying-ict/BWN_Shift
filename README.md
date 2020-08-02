@@ -1,6 +1,6 @@
 # BWN_Shift
 
-- Codes for “Towards State-Aware Computation in ReRAM Neural Networks,”, Yintao He, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, in IEEE/ACM Proceedings of Design, Automation Conference (DAC), 2020.
+Codes for “Towards State-Aware Computation in ReRAM Neural Networks,”, Yintao He, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, in IEEE/ACM Proceedings of Design, Automation Conference (DAC), 2020.
 
 
 
