@@ -1,11 +1,8 @@
 # BWN_Shift
-============
 
 - Codes for Towards State-Aware Computation in ReRAM Neural Networks (DAC20)
 - Paper link: (waiting...)
 
-* All the models will be stored in /scripts/logger
-* All the layers has been binarized in this work
 
 Install
 ------------
@@ -44,3 +41,7 @@ cd scripts
 ```bash
 ./train_mnist_lenet_bwnall.sh 0 test 1e-5
 ```
+
+
+* All the models will be stored in /scripts/logger
+* All the layers has been binarized in this work
