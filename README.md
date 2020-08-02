@@ -4,6 +4,9 @@
 - Codes for Towards State-Aware Computation in ReRAM Neural Networks (DAC20)
 - Paper link: (waiting...)
 
+* All the models will be stored in /scripts/logger
+* All the layers has been binarized in this work
+
 Install
 ------------
 
@@ -19,7 +22,7 @@ Codes
 The folder contains three important parts:
 - `utils/` contains scripts help us get started quickly
 - `examples/` contains \*.py for training and validation of network
-- `models/` contains files of BWN-Shift model
+- `models/` contains files of BWN-Shift, BWN without Shift, and full-precision model structure
 
 Run
 -------
@@ -41,6 +44,3 @@ cd scripts
 ```bash
 ./train_mnist_lenet_bwnall.sh 0 test 1e-5
 ```
-
-* All the models will be stored in /scripts/logger
-* All the layers has been binarized in this work
