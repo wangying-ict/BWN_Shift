@@ -1,10 +1,8 @@
 # BWN_Shift
-Codes for Towards State-Aware Computation in ReRAM Neural Networks (DAC20)
 ============
 
-- Paper link: [https://arxiv.org/abs/1609.02907](https://arxiv.org/abs/1609.02907)
-- Author's code repo: [https://github.com/tkipf/gcn](https://github.com/tkipf/gcn). Note that the original code is 
-implemented with Tensorflow for the paper. 
+- Codes for Towards State-Aware Computation in ReRAM Neural Networks (DAC20)
+- Paper link: (waiting...)
 
 Install
 ------------
