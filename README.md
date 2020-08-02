@@ -9,8 +9,11 @@ Install
 
 ``bash
 git clone <.git>
+
 cd BWN_Shift
+
 export PYTHONPATH=$PYTHONPATH:`pwd`
+
 pip install -r requirements.txt
 ``
 
